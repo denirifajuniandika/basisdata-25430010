@@ -1,0 +1,8 @@
+
+# File konfigurasi lokal yang mungkin berisi kredensial
+.env
+.env.*
+!.env.example
+
+# File teks kredensial
+kredensial*.txt
